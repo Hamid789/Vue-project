@@ -1,2 +1,2 @@
 # Vue-project
-Vue conecots
+Vue concepts
